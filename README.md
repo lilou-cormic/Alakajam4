@@ -11,4 +11,5 @@ Game created by lilou_cormic for [4th Alakajam! (Oct. 2018)](https://alakajam.co
 Tools Used
 - Unity 2018.3.0b5
 - Visual Studio 2017 Community
+- Bfxr 1.4.1
 - Bosca Ceoil 2.0
