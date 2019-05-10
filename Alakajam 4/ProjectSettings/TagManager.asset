@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Parachute
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackClouds
+    uniqueID: 1708648387
+    locked: 0
+  - name: Parachute
+    uniqueID: 2919363985
+    locked: 0
+  - name: Enemy
+    uniqueID: 1914556891
+    locked: 0
+  - name: Player
+    uniqueID: 473199571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FrontClouds
+    uniqueID: 1196481305
+    locked: 0
